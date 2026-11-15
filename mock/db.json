@@ -1,0 +1,1128 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "company": "Northwind Labs",
+      "role": "UI/UX Developer",
+      "jobUrl": "https://careers.example.com/northwind-labs/jobs/1001",
+      "status": "applied",
+      "dateApplied": "2026-09-15",
+      "salaryMin": 900000,
+      "salaryMax": 1500000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Pune",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-09-09T16:00:00Z"
+        },
+        {
+          "status": "applied",
+          "changedAt": "2026-09-15T10:30:00Z"
+        }
+      ],
+      "createdAt": "2026-09-09T16:00:00Z",
+      "updatedAt": "2026-09-15T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "company": "Lumen Analytics",
+      "role": "Software Engineer - Web",
+      "jobUrl": "https://careers.example.com/lumen-analytics/jobs/1002",
+      "status": "offer",
+      "dateApplied": "2026-08-15",
+      "salaryMin": 400000,
+      "salaryMax": 700000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Gurugram",
+      "notes": "Take-home assignment due within 5 days.",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-08-07T10:45:00Z"
+        },
+        {
+          "status": "applied",
+          "changedAt": "2026-08-15T11:00:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-09-01T14:00:00Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-09-20T10:30:00Z"
+        }
+      ],
+      "createdAt": "2026-08-07T10:45:00Z",
+      "updatedAt": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": 3,
+      "company": "Kestrel Systems",
+      "role": "Web Developer",
+      "jobUrl": "https://careers.example.com/kestrel-systems/jobs/1003",
+      "status": "applied",
+      "dateApplied": "2026-09-17",
+      "salaryMin": 900000,
+      "salaryMax": 1200000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Hyderabad",
+      "notes": "Hiring manager seemed keen on TypeScript experience.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-09-17T18:15:00Z"
+        }
+      ],
+      "createdAt": "2026-09-17T18:15:00Z",
+      "updatedAt": "2026-09-17T18:15:00Z"
+    },
+    {
+      "id": 4,
+      "company": "Bluefin Commerce",
+      "role": "UI/UX Developer",
+      "jobUrl": "https://careers.example.com/bluefin-commerce/jobs/1004",
+      "status": "rejected",
+      "dateApplied": "2026-09-18",
+      "salaryMin": 800000,
+      "salaryMax": 1400000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Pune",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-09-18T09:15:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-09-21T14:45:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-09-28T10:15:00Z"
+        }
+      ],
+      "createdAt": "2026-09-18T09:15:00Z",
+      "updatedAt": "2026-09-28T10:15:00Z"
+    },
+    {
+      "id": 5,
+      "company": "Orbitly",
+      "role": "Frontend Engineer Intern",
+      "jobUrl": "https://careers.example.com/orbitly/jobs/1005",
+      "status": "interview",
+      "dateApplied": "2026-10-03",
+      "salaryMin": 1000000,
+      "salaryMax": 1500000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Hyderabad",
+      "notes": "Asked about notice period and joining date.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-03T12:30:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-10-15T15:45:00Z"
+        }
+      ],
+      "createdAt": "2026-10-03T12:30:00Z",
+      "updatedAt": "2026-10-15T15:45:00Z"
+    },
+    {
+      "id": 6,
+      "company": "Paperplane HQ",
+      "role": "Associate Software Engineer",
+      "jobUrl": "https://careers.example.com/paperplane-hq/jobs/1006",
+      "status": "interview",
+      "dateApplied": "2026-10-03",
+      "salaryMin": 500000,
+      "salaryMax": 700000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Coimbatore",
+      "notes": "Asked about notice period and joining date.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-03T19:15:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-10-12T18:00:00Z"
+        }
+      ],
+      "createdAt": "2026-10-03T19:15:00Z",
+      "updatedAt": "2026-10-12T18:00:00Z"
+    },
+    {
+      "id": 7,
+      "company": "Tandem Health",
+      "role": "Associate Software Engineer",
+      "jobUrl": "https://careers.example.com/tandem-health/jobs/1007",
+      "status": "rejected",
+      "dateApplied": "2026-09-02",
+      "salaryMin": 1400000,
+      "salaryMax": 1600000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Coimbatore",
+      "notes": "Referred by a college senior.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-09-02T19:30:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-09-10T10:30:00Z"
+        }
+      ],
+      "createdAt": "2026-09-02T19:30:00Z",
+      "updatedAt": "2026-09-10T10:30:00Z"
+    },
+    {
+      "id": 8,
+      "company": "Quillstack",
+      "role": "Web Developer",
+      "jobUrl": "https://careers.example.com/quillstack/jobs/1008",
+      "status": "offer",
+      "dateApplied": "2026-11-15",
+      "salaryMin": 800000,
+      "salaryMax": 1400000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Hyderabad",
+      "notes": "Salary range not disclosed in JD, estimated.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-11-01T19:30:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-11-15T17:22:21.683Z"
+        },
+        {
+          "status": "wishlist",
+          "changedAt": "2026-11-15T17:22:25.504Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:22:42.027Z"
+        }
+      ],
+      "createdAt": "2026-11-01T19:30:00Z",
+      "updatedAt": "2026-11-15T17:22:42.027Z"
+    },
+    {
+      "id": 9,
+      "company": "Monsoon Digital",
+      "role": "Frontend Engineer Intern",
+      "jobUrl": "https://careers.example.com/monsoon-digital/jobs/1009",
+      "status": "offer",
+      "dateApplied": "2026-11-15",
+      "salaryMin": 1400000,
+      "salaryMax": 2000000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Pune",
+      "notes": "Referred by a college senior.",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-08-17T09:00:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-11-15T17:22:18.541Z"
+        },
+        {
+          "status": "wishlist",
+          "changedAt": "2026-11-15T17:22:23.028Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:22:42.655Z"
+        }
+      ],
+      "createdAt": "2026-08-17T09:00:00Z",
+      "updatedAt": "2026-11-15T17:22:42.655Z"
+    },
+    {
+      "id": 10,
+      "company": "Ferrous Cloud",
+      "role": "Web Developer",
+      "jobUrl": "https://careers.example.com/ferrous-cloud/jobs/1010",
+      "status": "rejected",
+      "dateApplied": "2026-08-31",
+      "salaryMin": 500000,
+      "salaryMax": 700000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Mumbai",
+      "notes": "Asked about notice period and joining date.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-31T17:15:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-09-05T19:45:00Z"
+        }
+      ],
+      "createdAt": "2026-08-31T17:15:00Z",
+      "updatedAt": "2026-09-05T19:45:00Z"
+    },
+    {
+      "id": 11,
+      "company": "Pebble Finance",
+      "role": "React Developer",
+      "jobUrl": "https://careers.example.com/pebble-finance/jobs/1011",
+      "status": "offer",
+      "dateApplied": "2026-11-15",
+      "salaryMin": 1000000,
+      "salaryMax": 1300000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Pune",
+      "notes": "Recruiter reached out on LinkedIn.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-17T13:45:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-10-25T16:45:00Z"
+        },
+        {
+          "status": "wishlist",
+          "changedAt": "2026-11-15T17:22:26.745Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:23:26.707Z"
+        }
+      ],
+      "createdAt": "2026-10-17T13:45:00Z",
+      "updatedAt": "2026-11-15T17:23:26.707Z"
+    },
+    {
+      "id": 12,
+      "company": "Canopy Learning",
+      "role": "Web Developer",
+      "jobUrl": "https://careers.example.com/canopy-learning/jobs/1012",
+      "status": "offer",
+      "dateApplied": "2026-09-13",
+      "salaryMin": 400000,
+      "salaryMax": 1000000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Mumbai",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-09-13T09:00:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-09-16T12:00:00Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-09-19T14:00:00Z"
+        }
+      ],
+      "createdAt": "2026-09-13T09:00:00Z",
+      "updatedAt": "2026-09-19T14:00:00Z"
+    },
+    {
+      "id": 13,
+      "company": "Vantage Mobility",
+      "role": "React Developer",
+      "jobUrl": "https://careers.example.com/vantage-mobility/jobs/1013",
+      "status": "interview",
+      "dateApplied": "2026-10-02",
+      "salaryMin": 700000,
+      "salaryMax": 1300000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Gurugram",
+      "notes": "Need to follow up if no reply in a week.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-02T12:45:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-10-11T12:00:00Z"
+        }
+      ],
+      "createdAt": "2026-10-02T12:45:00Z",
+      "updatedAt": "2026-10-11T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "company": "Saffron Foods Tech",
+      "role": "UI Engineer",
+      "jobUrl": "https://careers.example.com/saffron-foods-tech/jobs/1014",
+      "status": "interview",
+      "dateApplied": "2026-09-22",
+      "salaryMin": 1200000,
+      "salaryMax": 1400000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Noida",
+      "notes": "Hiring manager seemed keen on TypeScript experience.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-09-22T09:45:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-09-30T10:15:00Z"
+        }
+      ],
+      "createdAt": "2026-09-22T09:45:00Z",
+      "updatedAt": "2026-09-30T10:15:00Z"
+    },
+    {
+      "id": 15,
+      "company": "Driftwood Studio",
+      "role": "React Developer",
+      "jobUrl": "https://careers.example.com/driftwood-studio/jobs/1015",
+      "status": "applied",
+      "dateApplied": "2026-08-18",
+      "salaryMin": 1000000,
+      "salaryMax": 1300000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Hyderabad",
+      "notes": "Need to follow up if no reply in a week.",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-08-17T16:00:00Z"
+        },
+        {
+          "status": "applied",
+          "changedAt": "2026-08-18T19:00:00Z"
+        }
+      ],
+      "createdAt": "2026-08-17T16:00:00Z",
+      "updatedAt": "2026-08-18T19:00:00Z"
+    },
+    {
+      "id": 16,
+      "company": "Helix Robotics",
+      "role": "Full Stack Developer (React)",
+      "jobUrl": "https://careers.example.com/helix-robotics/jobs/1016",
+      "status": "rejected",
+      "dateApplied": "2026-10-02",
+      "salaryMin": 1200000,
+      "salaryMax": 1500000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Kochi",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-02T11:45:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-10-05T15:30:00Z"
+        }
+      ],
+      "createdAt": "2026-10-02T11:45:00Z",
+      "updatedAt": "2026-10-05T15:30:00Z"
+    },
+    {
+      "id": 17,
+      "company": "Copperline Media",
+      "role": "UI/UX Developer",
+      "jobUrl": "https://careers.example.com/copperline-media/jobs/1017",
+      "status": "offer",
+      "dateApplied": "2026-11-15",
+      "salaryMin": 1400000,
+      "salaryMax": 1900000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Noida",
+      "notes": "Asked about notice period and joining date.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-11-02T12:00:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-11-10T17:00:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-11-11T14:00:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-11-15T17:22:21.061Z"
+        },
+        {
+          "status": "wishlist",
+          "changedAt": "2026-11-15T17:22:24.888Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:22:43.282Z"
+        }
+      ],
+      "createdAt": "2026-11-02T12:00:00Z",
+      "updatedAt": "2026-11-15T17:22:43.282Z"
+    },
+    {
+      "id": 18,
+      "company": "Juniper Payments",
+      "role": "UI/UX Developer",
+      "jobUrl": "https://careers.example.com/juniper-payments/jobs/1018",
+      "status": "interview",
+      "dateApplied": "2026-08-21",
+      "salaryMin": 400000,
+      "salaryMax": 1000000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Bengaluru",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-21T10:00:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-08-27T15:00:00Z"
+        }
+      ],
+      "createdAt": "2026-08-21T10:00:00Z",
+      "updatedAt": "2026-08-27T15:00:00Z"
+    },
+    {
+      "id": 19,
+      "company": "Atlas Logistics",
+      "role": "Frontend Engineer Intern",
+      "jobUrl": "https://careers.example.com/atlas-logistics/jobs/1019",
+      "status": "applied",
+      "dateApplied": "2026-08-11",
+      "salaryMin": 1000000,
+      "salaryMax": 1600000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Mumbai",
+      "notes": "Need to follow up if no reply in a week.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-11T13:15:00Z"
+        }
+      ],
+      "createdAt": "2026-08-11T13:15:00Z",
+      "updatedAt": "2026-08-11T13:15:00Z"
+    },
+    {
+      "id": 20,
+      "company": "Brightside Insurance",
+      "role": "React Developer",
+      "jobUrl": "https://careers.example.com/brightside-insurance/jobs/1020",
+      "status": "interview",
+      "dateApplied": "2026-08-17",
+      "salaryMin": 800000,
+      "salaryMax": 1300000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Noida",
+      "notes": "Strong design culture, check their engineering blog.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-17T09:45:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-08-29T18:00:00Z"
+        }
+      ],
+      "createdAt": "2026-08-17T09:45:00Z",
+      "updatedAt": "2026-08-29T18:00:00Z"
+    },
+    {
+      "id": 21,
+      "company": "Nimbus Travel",
+      "role": "UI/UX Developer",
+      "jobUrl": "https://careers.example.com/nimbus-travel/jobs/1021",
+      "status": "interview",
+      "dateApplied": "2026-08-17",
+      "salaryMin": 900000,
+      "salaryMax": 1100000,
+      "currency": "INR",
+      "locationType": "remote",
+      "location": "Noida",
+      "notes": "Strong design culture, check their engineering blog.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-17T13:15:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-08-27T17:30:00Z"
+        }
+      ],
+      "createdAt": "2026-08-17T13:15:00Z",
+      "updatedAt": "2026-08-27T17:30:00Z"
+    },
+    {
+      "id": 22,
+      "company": "Granite Security",
+      "role": "Frontend Engineer Intern",
+      "jobUrl": "https://careers.example.com/granite-security/jobs/1022",
+      "status": "offer",
+      "dateApplied": "2026-11-15",
+      "salaryMin": 500000,
+      "salaryMax": 800000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Mumbai",
+      "notes": "Asked about notice period and joining date.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-24T17:15:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-10-31T13:15:00Z"
+        },
+        {
+          "status": "wishlist",
+          "changedAt": "2026-11-15T17:22:26.126Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:23:26.077Z"
+        }
+      ],
+      "createdAt": "2026-10-24T17:15:00Z",
+      "updatedAt": "2026-11-15T17:23:26.077Z"
+    },
+    {
+      "id": 23,
+      "company": "Marigold Retail",
+      "role": "Web Developer",
+      "jobUrl": "https://careers.example.com/marigold-retail/jobs/1023",
+      "status": "rejected",
+      "dateApplied": "2026-10-02",
+      "salaryMin": 800000,
+      "salaryMax": 1000000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Noida",
+      "notes": "Referred by a college senior.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-02T13:00:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-10-05T14:15:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-10-12T11:45:00Z"
+        }
+      ],
+      "createdAt": "2026-10-02T13:00:00Z",
+      "updatedAt": "2026-10-12T11:45:00Z"
+    },
+    {
+      "id": 24,
+      "company": "Tidepool Games",
+      "role": "Frontend Engineer Intern",
+      "jobUrl": "https://careers.example.com/tidepool-games/jobs/1024",
+      "status": "offer",
+      "dateApplied": "2026-08-15",
+      "salaryMin": 500000,
+      "salaryMax": 800000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Pune",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-15T18:15:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-08-24T11:00:00Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-08-31T14:00:00Z"
+        }
+      ],
+      "createdAt": "2026-08-15T18:15:00Z",
+      "updatedAt": "2026-08-31T14:00:00Z"
+    },
+    {
+      "id": 25,
+      "company": "Cobalt Energy",
+      "role": "Associate Software Engineer",
+      "jobUrl": "https://careers.example.com/cobalt-energy/jobs/1025",
+      "status": "interview",
+      "dateApplied": "2026-08-14",
+      "salaryMin": 900000,
+      "salaryMax": 1500000,
+      "currency": "INR",
+      "locationType": "remote",
+      "location": "Hyderabad",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-14T18:15:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-08-20T11:15:00Z"
+        }
+      ],
+      "createdAt": "2026-08-14T18:15:00Z",
+      "updatedAt": "2026-08-20T11:15:00Z"
+    },
+    {
+      "id": 26,
+      "company": "Willow HR",
+      "role": "Frontend Engineer Intern",
+      "jobUrl": "https://careers.example.com/willow-hr/jobs/1026",
+      "status": "applied",
+      "dateApplied": "2026-09-12",
+      "salaryMin": 1000000,
+      "salaryMax": 1300000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Pune",
+      "notes": "Round 1 was a DSA screen, Round 2 is machine coding.",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-09-08T09:45:00Z"
+        },
+        {
+          "status": "applied",
+          "changedAt": "2026-09-12T12:45:00Z"
+        }
+      ],
+      "createdAt": "2026-09-08T09:45:00Z",
+      "updatedAt": "2026-09-12T12:45:00Z"
+    },
+    {
+      "id": 27,
+      "company": "Sparrow Maps",
+      "role": "Frontend Developer",
+      "jobUrl": "https://careers.example.com/sparrow-maps/jobs/1027",
+      "status": "rejected",
+      "dateApplied": "2026-08-04",
+      "salaryMin": 700000,
+      "salaryMax": 1200000,
+      "currency": "INR",
+      "locationType": "remote",
+      "location": "Mumbai",
+      "notes": "Take-home assignment due within 5 days.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-04T13:30:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-08-15T15:30:00Z"
+        }
+      ],
+      "createdAt": "2026-08-04T13:30:00Z",
+      "updatedAt": "2026-08-15T15:30:00Z"
+    },
+    {
+      "id": 28,
+      "company": "Ember Fitness",
+      "role": "Software Engineer - Web",
+      "jobUrl": "https://careers.example.com/ember-fitness/jobs/1028",
+      "status": "wishlist",
+      "dateApplied": null,
+      "salaryMin": 800000,
+      "salaryMax": 1000000,
+      "currency": "INR",
+      "locationType": "remote",
+      "location": "Kochi",
+      "notes": "Referred by a college senior.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-14T14:30:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-10-23T18:00:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-11-01T18:15:00Z"
+        },
+        {
+          "status": "wishlist",
+          "changedAt": "2026-11-15T17:22:27.363Z"
+        }
+      ],
+      "createdAt": "2026-10-14T14:30:00Z",
+      "updatedAt": "2026-11-15T17:22:27.363Z"
+    },
+    {
+      "id": 29,
+      "company": "Ironbark Software",
+      "role": "React Developer",
+      "jobUrl": "https://careers.example.com/ironbark-software/jobs/1029",
+      "status": "offer",
+      "dateApplied": "2026-11-15",
+      "salaryMin": 1400000,
+      "salaryMax": 1700000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Noida",
+      "notes": "Strong design culture, check their engineering blog.",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-09-30T14:30:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-11-15T17:22:19.192Z"
+        },
+        {
+          "status": "wishlist",
+          "changedAt": "2026-11-15T17:22:23.648Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:22:43.904Z"
+        }
+      ],
+      "createdAt": "2026-09-30T14:30:00Z",
+      "updatedAt": "2026-11-15T17:22:43.904Z"
+    },
+    {
+      "id": 30,
+      "company": "Lotus Bank",
+      "role": "Associate Software Engineer",
+      "jobUrl": "https://careers.example.com/lotus-bank/jobs/1030",
+      "status": "offer",
+      "dateApplied": "2026-11-15",
+      "salaryMin": 1000000,
+      "salaryMax": 1400000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Hyderabad",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-10-20T11:15:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-11-15T17:22:19.820Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:22:45.153Z"
+        }
+      ],
+      "createdAt": "2026-10-20T11:15:00Z",
+      "updatedAt": "2026-11-15T17:22:45.153Z"
+    },
+    {
+      "id": 31,
+      "company": "Meridian Telecom",
+      "role": "Full Stack Developer (React)",
+      "jobUrl": "https://careers.example.com/meridian-telecom/jobs/1031",
+      "status": "rejected",
+      "dateApplied": "2026-10-12",
+      "salaryMin": 800000,
+      "salaryMax": 1300000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Coimbatore",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-10-12T13:30:00Z"
+        },
+        {
+          "status": "rejected",
+          "changedAt": "2026-10-18T15:30:00Z"
+        }
+      ],
+      "createdAt": "2026-10-12T13:30:00Z",
+      "updatedAt": "2026-10-18T15:30:00Z"
+    },
+    {
+      "id": 32,
+      "company": "Pixelforge",
+      "role": "UI Engineer",
+      "jobUrl": "https://careers.example.com/pixelforge/jobs/1032",
+      "status": "offer",
+      "dateApplied": "2026-08-28",
+      "salaryMin": 1400000,
+      "salaryMax": 1900000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Hyderabad",
+      "notes": "Referred by a college senior.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-28T19:00:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-09-04T17:30:00Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-09-08T12:30:00Z"
+        }
+      ],
+      "createdAt": "2026-08-28T19:00:00Z",
+      "updatedAt": "2026-09-08T12:30:00Z"
+    },
+    {
+      "id": 33,
+      "company": "Riverstone Realty",
+      "role": "UI/UX Developer",
+      "jobUrl": "https://careers.example.com/riverstone-realty/jobs/1033",
+      "status": "applied",
+      "dateApplied": "2026-08-06",
+      "salaryMin": 700000,
+      "salaryMax": 1200000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Kochi",
+      "notes": "Hiring manager seemed keen on TypeScript experience.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-06T16:45:00Z"
+        }
+      ],
+      "createdAt": "2026-08-06T16:45:00Z",
+      "updatedAt": "2026-08-06T16:45:00Z"
+    },
+    {
+      "id": 34,
+      "company": "Solace Wellness",
+      "role": "UI Engineer",
+      "jobUrl": "https://careers.example.com/solace-wellness/jobs/1034",
+      "status": "applied",
+      "dateApplied": "2026-09-21",
+      "salaryMin": 700000,
+      "salaryMax": 1000000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Noida",
+      "notes": "Hiring manager seemed keen on TypeScript experience.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-09-21T10:45:00Z"
+        }
+      ],
+      "createdAt": "2026-09-21T10:45:00Z",
+      "updatedAt": "2026-09-21T10:45:00Z"
+    },
+    {
+      "id": 35,
+      "company": "Trellis AgriTech",
+      "role": "Full Stack Developer (React)",
+      "jobUrl": "https://careers.example.com/trellis-agritech/jobs/1035",
+      "status": "applied",
+      "dateApplied": "2026-08-07",
+      "salaryMin": 1400000,
+      "salaryMax": 1700000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Coimbatore",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-08-07T16:15:00Z"
+        }
+      ],
+      "createdAt": "2026-08-07T16:15:00Z",
+      "updatedAt": "2026-08-07T16:15:00Z"
+    },
+    {
+      "id": 36,
+      "company": "Upwind Aviation",
+      "role": "Full Stack Developer (React)",
+      "jobUrl": "https://careers.example.com/upwind-aviation/jobs/1036",
+      "status": "offer",
+      "dateApplied": "2026-11-01",
+      "salaryMin": 1400000,
+      "salaryMax": 1900000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Pune",
+      "notes": "",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-11-01T11:45:00Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-12T04:30:12.609Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-11-15T17:22:22.309Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:22:45.775Z"
+        }
+      ],
+      "createdAt": "2026-11-01T11:45:00Z",
+      "updatedAt": "2026-11-15T17:22:45.775Z"
+    },
+    {
+      "id": 37,
+      "company": "Verdant Climate",
+      "role": "Software Engineer - Web",
+      "jobUrl": "https://careers.example.com/verdant-climate/jobs/1037",
+      "status": "applied",
+      "dateApplied": "2026-09-05",
+      "salaryMin": 1400000,
+      "salaryMax": 1900000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Mumbai",
+      "notes": "Salary range not disclosed in JD, estimated.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-09-05T16:00:00Z"
+        }
+      ],
+      "createdAt": "2026-09-05T16:00:00Z",
+      "updatedAt": "2026-09-05T16:00:00Z"
+    },
+    {
+      "id": 38,
+      "company": "Zephyr Streaming",
+      "role": "Frontend Engineer Intern",
+      "jobUrl": "https://careers.example.com/zephyr-streaming/jobs/1038",
+      "status": "applied",
+      "dateApplied": "2026-09-10",
+      "salaryMin": 1400000,
+      "salaryMax": 1600000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Kochi",
+      "notes": "Referred by a college senior.",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-09-06T11:15:00Z"
+        },
+        {
+          "status": "applied",
+          "changedAt": "2026-09-10T15:45:00Z"
+        }
+      ],
+      "createdAt": "2026-09-06T11:15:00Z",
+      "updatedAt": "2026-09-10T15:45:00Z"
+    },
+    {
+      "id": 39,
+      "company": "Harbor & Co",
+      "role": "Frontend Developer",
+      "jobUrl": "https://careers.example.com/harbor-co/jobs/1039",
+      "status": "offer",
+      "dateApplied": "2026-11-15",
+      "salaryMin": 1000000,
+      "salaryMax": 1500000,
+      "currency": "INR",
+      "locationType": "onsite",
+      "location": "Mumbai",
+      "notes": "Need to follow up if no reply in a week.",
+      "statusHistory": [
+        {
+          "status": "wishlist",
+          "changedAt": "2026-08-22T15:45:00Z"
+        },
+        {
+          "status": "interview",
+          "changedAt": "2026-11-15T17:22:20.444Z"
+        },
+        {
+          "status": "wishlist",
+          "changedAt": "2026-11-15T17:22:24.272Z"
+        },
+        {
+          "status": "offer",
+          "changedAt": "2026-11-15T17:22:44.529Z"
+        }
+      ],
+      "createdAt": "2026-08-22T15:45:00Z",
+      "updatedAt": "2026-11-15T17:22:44.529Z"
+    },
+    {
+      "id": 40,
+      "company": "Indigo Ed",
+      "role": "Software Engineer - Web",
+      "jobUrl": "https://careers.example.com/indigo-ed/jobs/1040",
+      "status": "applied",
+      "dateApplied": "2026-09-23",
+      "salaryMin": 1400000,
+      "salaryMax": 2000000,
+      "currency": "INR",
+      "locationType": "hybrid",
+      "location": "Coimbatore",
+      "notes": "Referred by a college senior.",
+      "statusHistory": [
+        {
+          "status": "applied",
+          "changedAt": "2026-09-23T16:15:00Z"
+        }
+      ],
+      "createdAt": "2026-09-23T16:15:00Z",
+      "updatedAt": "2026-09-23T16:15:00Z"
+    }
+  ]
+}
